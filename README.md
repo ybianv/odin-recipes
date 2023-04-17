@@ -1,0 +1,2 @@
+It is the first project from theodinproject foundation course (https://www.theodinproject.com/lessons/foundations-recipes)
+This project consist for now to make a html recipe website with a main page and links to a few recipes.
